@@ -23,6 +23,6 @@ The goal of this lab is to familiarize the user with the features of Watson Open
 
 ### Step 1. Please click on the link to download the instructions to your machine
 
-[Instructions](https://github.com/bleonardb3/ML_POT_03-25-2021/raw/main/Lab-6/Watson%20OpenScale%20v03-25-2021.pdf)
+[Instructions](https://github.com/bleonardb3/ML_POT_07-08-2021/raw/main/Lab-6/Watson%20OpenScale%20v07-08-2021.pdf)
 
 
