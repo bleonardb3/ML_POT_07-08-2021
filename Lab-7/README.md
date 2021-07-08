@@ -9,7 +9,8 @@ This lab will be demonstrated by the instructor. The Watson Machine Learning lit
 
 ## Instructions:
 
-### Step 1.  This lab will be demonstrated by the instructor. We will post instructions after the workshop. But, unless you have a paid Watson Machine Learning service, you will not be able to complete the lab. 
+### Step 1.  
+This lab will be demonstrated by the instructor. We will post instructions after the workshop. But, unless you have a paid Watson Machine Learning service, you will not be able to complete the lab. 
 
 
 
