@@ -9,7 +9,7 @@ This lab will be demonstrated by the instructor. The Watson Machine Learning lit
 
 ## Instructions:
 
-### Step 1.  Please click on the link below to download the instructions to your machine.
+### Step 1.  This lab will be demonstrated by the instructor. We will post instructions after the workshop. But, unless you have a paid Watson Machine Learning service, you will not be able to complete the lab. 
 
-[Instructions](https://github.com/bleonardb3/ML_POT_07-08-2021/raw/main/Lab-7/Neural%20Network%20Modeling%20with%20MNIST%20data%20set%20v07-08-2021.pdf). 
+
 
